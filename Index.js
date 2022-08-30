@@ -1,1 +1,2 @@
-hi
+
+static getDerivedStateFromProps(props, state) {first}
